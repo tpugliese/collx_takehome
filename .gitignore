@@ -1,0 +1,5 @@
+# Files to Ignore:
+
+
+# Large SQL File for Database Purposes
+/data/sql/*
